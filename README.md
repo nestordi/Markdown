@@ -1,4 +1,4 @@
-Infographic 1 "Europe and Central Asia Economic Update".Source: http://one-europe.net
+**Infographic 1** `"Europe and Central Asia Economic Update".` Source: http://one-europe.net
 
 ![alt text](https://github.com/nestordi/Markdown/blob/master/WorldBankOct14.jpg "Inf1")
 
