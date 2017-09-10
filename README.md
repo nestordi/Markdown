@@ -2,13 +2,13 @@
 
 ![alt text](https://github.com/nestordi/Markdown/blob/master/WorldBankOct14.jpg "Inf1")
 
-Infographic 2 "World Economic Outlook Updtate". Source: International Monetary Fund. http://www.imf.org   
+**Infographic 2** `"World Economic Outlook Updtate".` Source: International Monetary Fund. http://www.imf.org   
 
 ![alt text](https://github.com/nestordi/Markdown/blob/master/IMF.jpg "Inf 2")
 
-Wheel Analysis: 
+**Wheel Analysis** 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/nestordi/Markdown/blob/master/wheel%20analysis.jpg "Analysis")
 
 
 
