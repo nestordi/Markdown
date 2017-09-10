@@ -1,11 +1,13 @@
-Infographic 1: 
-Source: http://one-europe.net
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+Infographic 1 "Europe and Central Asia Economic Update".Source: http://one-europe.net
 
-Infographic 2:  
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/nestordi/Markdown/blob/master/WorldBankOct14.jpg "Inf1")
+
+Infographic 2 "World Economic Outlook Updtate". Source: International Monetary Fund. http://www.imf.org   
+
+![alt text](https://github.com/nestordi/Markdown/blob/master/IMF.jpg "Inf 2")
 
 Wheel Analysis: 
+
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 
