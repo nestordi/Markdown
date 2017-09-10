@@ -1,8 +1,8 @@
-**Infographic 1** `"Europe and Central Asia Economic Update".` Source: http://one-europe.net
+**Infographic 1** `"Europe and Central Asia Economic Update".` Source: http://one-europe.net. Link: http://one-europe.net/user/files/Blerina/eca-report-final2.jpg
 
 ![alt text](https://github.com/nestordi/Markdown/blob/master/WorldBankOct14.jpg "Inf1")
 
-**Infographic 2** `"World Economic Outlook Updtate".` Source: International Monetary Fund. http://www.imf.org   
+**Infographic 2** `"World Economic Outlook Updtate".` Source: International Monetary Fund. http://www.imf.org. Link: http://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2015/update/01/images/_weoupdateinfo0115jpg.ashx   
 
 ![alt text](https://github.com/nestordi/Markdown/blob/master/IMF.jpg "Inf 2")
 
