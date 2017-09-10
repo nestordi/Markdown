@@ -3,11 +3,10 @@
 | -------------               |-------------                            |      -----:|
 | **Do well**                     |•	The chart is multidimensional. It explores data in high level (line chart) and drill down (bar char).   | •	Bar charts divided by category gives a quick idea of the status of each economy. |
 |                             | Different bars charts are aligned and using the same axis. This helps when comparing values. Negative values are appreciated immediately                                  |   It gives explanation about the data using text and images. |
-|                  | are neat                                  |    $1 |
 | **Do poorly**                   | centered                                  |   $12 |
-|                  | are neat                                  |    $1 |
-|                    | centered                                  |   $12 |
-|                  | are neat                                  |    $1 |
+|                  | There are few variables in the infographic                                  |    Few variables in the infographic |
+|                    | Descriptive diagram (3 trends) seems to be the focus of the infographic, taking about 30% of the page                                  |   Not very original. Lack of density |
+|                  | The use of the same colors for different purposes may confuse the reader                                  |    Lack of dimensionality, there is nothing to explore beside the bar charts |
 | **Suggestions**                   | centered                                  |   $12 |
 |                  | are neat                                  |    $1 |
 |                  | are neat                                  |    $1 |
