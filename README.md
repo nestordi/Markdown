@@ -1,3 +1,14 @@
+Infographic 1: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+Infographic 2:  
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+Wheel Analysis: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+
+
 
 |                             | **World Bank Oct 14 Info.**                   | **IMF Jan 15 Info.** |
 | -------------               |-------------                            |      -----|
